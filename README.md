@@ -39,7 +39,7 @@
 
 <h3 align="left">📌 About Me</h3>
 
-- 🔧 **Experience:** 2.5+ years as Oracle DBA at Zensar Technologies  
+- 🔧 **Experience:** 3.5+ years as Oracle DBA/2.1 Years & Devops Engineer/ 1.4 Years at Zensar Technologies  
 - 🌩️ **Skills:** AWS DevOps, Terraform, CI/CD, Kubernetes  
 - 💡 **Current Role:** DevOps Engineer at Zensar  
 - 🚀 **Projects:** BookMyShow App on AWS with CI/CD, VPC, EKS  
