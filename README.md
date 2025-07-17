@@ -39,13 +39,12 @@
 
 <h3 align="left">📌 About Me</h3>
 
-- 🔧 **Experience:** 💼 Total Experience: 3.5+ Years
-• Oracle DBA – 2.1 Years
-• DevOps Engineer – 1.4 Years (Current)
+- 🔧 **Experience:** 💼 Total Experience: 4 Years
+• Oracle DBA – 1.5 Years
+• DevOps Engineer – 2.5 Years (Current)
 🏢 Company: Zensar Technologies
 - 🌩️ **Skills:** AWS DevOps, Terraform, CI/CD, Kubernetes  
 - 💡 **Current Role:** DevOps Engineer at Zensar  
-- 🚀 **Projects:** BookMyShow App on AWS with CI/CD, VPC, EKS  
 - 🌐 **Website:** [www.cloudbrahma.in](http://www.cloudbrahma.in)  
 - 📫 **Contact:** 8247459488 | pdavath@gmail.com
 
