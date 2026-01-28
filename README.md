@@ -40,8 +40,8 @@
 <h3 align="left">📌 About Me</h3>
 
 - 🔧 **Experience:** 💼 Total Experience: 4 Years
-• Oracle DBA – 1.5 Years
-• DevOps Engineer – 2.5 Years (Current)
+• Oracle DBA – 1 Year
+• DevOps Engineer – 3+ Years (Current)
 🏢 Company: Zensar Technologies
 - 🌩️ **Skills:** AWS DevOps, Terraform, CI/CD, Kubernetes  
 - 💡 **Current Role:** DevOps Engineer at Zensar  
