@@ -1,217 +1,161 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Pavan Kumar Davathu — Oracle DBA to AWS DevOps Engineer" />
-
-<p>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Focus-AWS%20%26%20DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS and DevOps"/>
-  <img src="https://img.shields.io/badge/Always-Learning-16A085?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning"/>
-</p>
-
-### `Automate boldly. Deploy reliably. Keep learning.`
-
-</div>
-
----
-
-## `whoami` · About Me
-
-I'm **Pavan Kumar Davathu**, an Oracle DBA at Zensar Technologies with around **5 years of IT experience** in database administration, production support, troubleshooting, and operational automation.
-
-I'm growing my hands-on skills across **AWS, Terraform, Docker, Kubernetes, CI/CD, and monitoring**, combining a production-operations mindset with modern cloud and DevOps practices.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ What I bring
-- Oracle Database Administration
-- RMAN backup and recovery
-- Production troubleshooting
-- Operational scripting and automation
-- Incident analysis and reliability mindset
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Where I'm heading
-- AWS cloud infrastructure
-- Terraform and Infrastructure as Code
-- Docker and Amazon EKS
-- CI/CD and GitOps
-- Monitoring, observability, and DevSecOps
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Technology Universe
-
-<div align="center">
-
-### Cloud & Infrastructure
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-
-### Containers & Orchestration
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="Amazon EKS"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-
-### CI/CD & GitOps
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-
-### Monitoring & Databases
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-<img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
-</div>
-
----
-
-## 🏗️ My DevOps Delivery Flow
-
-<div align="center">
-<img src="assets/pipeline.svg" width="100%" alt="DevOps pipeline from code through build, package, deploy, observe, and continuous improvement"/>
-</div>
-
-| Stage | Tools / Focus | Goal |
-|---|---|---|
-| **Code** | Git, GitHub | Version control and collaboration |
-| **Build** | Jenkins, Maven | Repeatable builds |
-| **Quality** | SonarQube | Static analysis and code quality |
-| **Package** | Docker, Amazon ECR | Portable container images |
-| **Deploy** | Kubernetes, EKS, Helm | Consistent application delivery |
-| **Observe** | Prometheus, Grafana | Metrics, dashboards, and alerts |
-| **Improve** | Automation and feedback | More reliable releases |
-
----
-
-## 🚀 Project Lab
-
-> Add links to your actual repositories as you publish each project. These are project areas to build and document—not claims that every project is already completed.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ AWS Infrastructure as Code
-**AWS · Terraform · VPC · EC2 · IAM · ALB**
-
-- Provision repeatable cloud resources.
-- Structure infrastructure into reusable modules.
-- Practice network segmentation and least-privilege access.
-- Document plans, deployments, and cleanup.
-
-`Infrastructure Automation`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔁 CI/CD for Containerized Apps
-**GitHub · Jenkins · Maven · SonarQube · Docker · ECR**
-
-- Automate build and quality-check stages.
-- Build and version container images.
-- Publish images to a container registry.
-- Make releases more repeatable.
-
-`Continuous Delivery`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☸️ Kubernetes on Amazon EKS
-**AWS EKS · Kubernetes · Helm · Argo CD**
-
-- Deploy and expose containerized workloads.
-- Configure ingress and service routing.
-- Practice scaling and rollout strategies.
-- Explore GitOps-based deployments.
-
-`Container Orchestration`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Monitoring & Reliability
-**Prometheus · Grafana · Linux**
-
-- Visualize infrastructure and application metrics.
-- Design useful operational dashboards.
-- Practice alerting and incident investigation.
-- Document troubleshooting runbooks.
-
-`Observability`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🗺️ My Learning Skyline
-
-<div align="center">
-<img src="assets/skyline.svg" width="100%" alt="Stylized cloud and DevOps technology skyline"/>
-</div>
-
-- [ ] Deepen AWS architecture and networking knowledge
-- [ ] Build reusable Terraform modules
-- [ ] Strengthen Docker and Kubernetes fundamentals
-- [ ] Practice Jenkins CI/CD and GitOps deployments
-- [ ] Implement actionable monitoring and alerting
-- [ ] Publish clear project READMEs and architecture diagrams
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<a href="https://saikiranpi.in" target="_blank">
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<!-- Custom animated 3D hero (assets/hero-orbit.svg) -->
+<img src="assets/hero-orbit.svg" width="100%" alt="Animated 3D orbit of cloud technologies and CI/CD pipeline" />
+
+<br/><br/>
+
+<p>
+  <a href="https://saikiranpi.in"><img src="https://img.shields.io/badge/Cloud%20Vishwakarma-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portal" /></a>
+  <a href="https://topmate.io/pinapathruni_saikiran"><img src="https://img.shields.io/badge/Topmate%201%3A1-FF5722?style=for-the-badge&logoColor=white" alt="Topmate" /></a>
+  <a href="https://www.youtube.com/@SaiKirannPinapathruni"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/saikiranpinapathruni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@pinapathrunisaikiran"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://hub.docker.com/u/kiran2361993"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## `~/whoami`
+
+```yaml
+name:       Saikiran Pinapathruni
+role:       Cloud & DevOps Architect
+founder_of: Cloud Vishwakarma
+mentoring:  Engineers moving into Cloud / DevOps / SRE (Topmate 1:1)
+stack:      [AWS, Azure, Kubernetes, Terraform, ArgoCD, Jenkins, Prometheus]
+focus:      Production-grade, hands-on, security-first delivery
+philosophy: "Automate everything. Architect for resilience. Share knowledge relentlessly."
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🚀 Ecosystem
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Cloud Vishwakarma</h3>
+      <p align="center"><a href="https://saikiranpi.in"><img src="https://img.shields.io/badge/Visit-Portal-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cloud Vishwakarma" /></a></p>
+      <ul>
+        <li>Hands-on, production-grade DevOps courses and workshops</li>
+        <li>Real-time project architectures and cloud sandboxes</li>
+        <li>Curriculum for working professionals and career switchers</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤝 Topmate Mentorship</h3>
+      <p align="center"><a href="https://topmate.io/pinapathruni_saikiran"><img src="https://img.shields.io/badge/Book-1%3A1%20Session-E64A19?style=for-the-badge" alt="Topmate Mentorship" /></a></p>
+      <ul>
+        <li>1:1 career guidance and custom DevOps learning paths</li>
+        <li>Resume and LinkedIn optimization</li>
+        <li>Mock interviews and salary negotiation coaching</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎥 YouTube</h3>
+      <p align="center"><a href="https://www.youtube.com/@SaiKirannPinapathruni"><img src="https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a></p>
+      <ul>
+        <li>Project builds from scratch to production</li>
+        <li>AWS, Kubernetes, Terraform and DevSecOps deep dives</li>
+        <li>Roadmaps, career Q&amp;A and livestreams</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐳 Docker Hub and Labs</h3>
+      <p align="center"><a href="https://hub.docker.com/u/kiran2361993"><img src="https://img.shields.io/badge/Explore-Docker%20Hub-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a></p>
+      <ul>
+        <li>Pre-configured images for quick lab spin-ups</li>
+        <li>Multi-tier microservice demo stacks</li>
+        <li>CI/CD runner images tuned for security and speed</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🏗️ How I Ship: Reference Pipeline
+
+<div align="center">
+<img src="assets/pipeline.svg" width="100%" alt="Animated reference pipeline: commit, build, scan, package, secure, sync, run, with a monitoring feedback loop" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 📚 Featured Repositories
+
+| Repository | Focus | What you get |
+| :--- | :--- | :--- |
+| 🛡️ [**Mastering-DevSecOps**](https://github.com/saikiranpi/Mastering-DevSecOps) | DevSecOps | Pipeline security: SAST/DAST, SCA, container scanning, compliance |
+| 🚢 [**Mastering-Kubernetes**](https://github.com/saikiranpi/Mastering-Kubernetes) | Orchestration | Production clusters, ingress, CNI, storage, zero-downtime rollouts |
+| 🏗️ [**Terraform_Modules**](https://github.com/saikiranpi/Terraform_Modules) | IaC | Modular, production-ready Terraform for cloud infrastructure |
+| ☁️ [**mastering-aws**](https://github.com/saikiranpi/mastering-aws) | Cloud architecture | Hands-on guides and patterns for core AWS services |
+| 🎯 [**DevOps-interview-Kit**](https://github.com/saikiranpi/DevOps-interview-Kit) | Career prep | Scenario questions, architecture puzzles, cheat sheets |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🧊 Skill Skyline
+
+<div align="center">
+<img src="assets/skyline.svg" width="100%" alt="Animated 3D skill skyline" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saikiranpi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranpi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top Languages" />
+
+</div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+**Want a roadmap, a mock interview, or a production-grade DevOps project review?**
 
-**Open to learning, collaborating, and building practical cloud automation projects.**
+<a href="https://topmate.io/pinapathruni_saikiran">
+  <img src="https://img.shields.io/badge/Book%20a%201%3A1%20session-FF5722?style=for-the-badge" alt="Book on Topmate" />
+</a>
+<a href="https://www.linkedin.com/in/saikiranpinapathruni/">
+  <img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-<img src="assets/footer.svg" width="100%" alt="Decorative neon footer"/>
+<br/><br/>
 
-*“From production support to cloud automation—one reliable deployment at a time.”*
+<br/><br/>
+
+<i>"Automate everything, architect for resilience, and share knowledge relentlessly."</i>
+
+<img src="assets/footer.svg" width="100%" alt="footer" />
 
 </div>
