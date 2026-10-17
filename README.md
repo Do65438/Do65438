@@ -1,76 +1,146 @@
-<img src="https://proeffico.com/wp-content/uploads/2022/07/devOps-cloud-native-1.gif" />
+# Hi, I'm Pavan Kumar Davathu 👋
 
-<h1 align="left">Hey 👋! My name is Davathu Pavan Kumar</h1>
+### Oracle DBA | Aspiring AWS DevOps Engineer | Cloud & Automation Enthusiast
 
-<h2 align="left">I'm interested in exploring cloud computing, containerization, and automation to improve the software development and deployment process. I'm committed to constantly learning and experimenting with different DevOps tools and techniques to stay up-to-date with the latest advancements in the field. from India 🇮🇳</h2>
+I am an Oracle DBA at Zensar Technologies with around 5 years of IT experience in database administration, production support, troubleshooting, and operational automation. I am expanding my expertise in AWS Cloud, Infrastructure as Code, containerization, Kubernetes, and CI/CD automation.
 
-###
+My goal is to build reliable, scalable, secure, and automated cloud infrastructure using modern DevOps practices.
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Working as an **Oracle DBA at Zensar Technologies**
+- 🗄️ Experienced in Oracle Database Administration, RMAN backup and recovery, performance troubleshooting, and production support
+- ☁️ Building hands-on expertise in AWS Cloud and cloud infrastructure
+- 🏗️ Learning and implementing Infrastructure as Code with Terraform
+- 🐳 Exploring Docker, Kubernetes, Amazon EKS, and container orchestration
+- 🔄 Building CI/CD pipelines and automated deployment workflows
+- 📈 Interested in monitoring, observability, reliability, and DevSecOps
+- 🎯 Career goal: Transition into an AWS DevOps Engineer role
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### DevOps & CI/CD
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### Monitoring & Code Quality
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### Database & Scripting
+
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 1. AWS Infrastructure Automation with Terraform
+**Technologies:** AWS, Terraform, VPC, EC2, IAM, ALB
+
+- Automate cloud infrastructure provisioning using reusable Terraform configurations.
+- Implement network segmentation and security controls.
+- Explore load balancing, infrastructure changes, and resource lifecycle management.
+
+### 2. CI/CD Pipeline for Containerized Applications
+**Technologies:** GitHub, Jenkins, Maven, SonarQube, Docker, Amazon ECR
+
+- Automate source code builds and application packaging.
+- Integrate code quality checks into the build process.
+- Build Docker images and publish artifacts to a container registry.
+- Improve deployment consistency through repeatable pipelines.
+
+### 3. Kubernetes Deployment on Amazon EKS
+**Technologies:** AWS EKS, Kubernetes, Docker, Helm, Argo CD
+
+- Deploy containerized applications to Kubernetes.
+- Configure application services and ingress routing.
+- Explore Helm-based deployments and GitOps workflows.
+- Practice scaling, troubleshooting, and application availability.
+
+### 4. Monitoring and Observability
+**Technologies:** Prometheus, Grafana, Linux
+
+- Explore infrastructure and application monitoring.
+- Build dashboards to visualize operational metrics.
+- Practice alerting and troubleshooting workflows.
+
+*These are project areas to showcase as you implement them. Add repository links, architecture diagrams, and verified results as each project becomes available.*
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Do65438&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Do65438&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true)
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+## 📚 Currently Learning
 
-###
+- AWS architecture and core cloud services
+- Terraform modules and infrastructure automation
+- Docker and Kubernetes administration
+- Amazon EKS and Helm
+- Jenkins and CI/CD pipeline implementation
+- Argo CD and GitOps
+- Prometheus and Grafana
+- Cloud security and DevSecOps fundamentals
 
-<h3 align="left">🧰 Tech Stack</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+## 💡 My Approach
+
+- Automate repetitive operational tasks.
+- Build infrastructure that is secure and maintainable.
+- Learn through hands-on projects and troubleshooting.
+- Apply production-support experience to cloud reliability.
+- Document solutions so they can be reused and improved.
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 GitHub: [My Repositories](https://github.com/YOUR-GITHUB-USERNAME)
+- 💼 LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- 📧 Email: Add your professional email address
+
+---
+
+<div align="center">
+
+**Learning continuously. Automating intelligently. Building for reliability.**
+
+⭐ Feel free to explore my repositories and follow my cloud and DevOps journey!
+
 </div>
-
-###
-
-<h3 align="left">📌 About Me</h3>
-
-- 🔧 **Experience:** 💼 Total Experience: 4 Years
-• Oracle DBA – 1 Year
-• DevOps Engineer – 3+ Years (Current)
-🏢 Company: Zensar Technologies
-- 🌩️ **Skills:** AWS DevOps, Terraform, CI/CD, Kubernetes  
-- 💡 **Current Role:** DevOps Engineer at Zensar  
-- 🌐 **Website:** [www.cloudbrahma.in](http://www.cloudbrahma.in)  
-- 📫 **Contact:** 8247459488 | pdavath@gmail.com
-
-###
-
-<h3 align="left">🔗 Connect with me</h3>
-
-<div align="left">
-  <a href="https://github.com/Do65438" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/pavan-kumar-50a865196" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/pavan_davath" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:pdavath@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</div>
-
-###
-
-<br clear="both" />
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
